@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on DeathGarurumon</title><link>https://DeathGarurumon.github.io/categories/test/</link><description>Recent content in Test on DeathGarurumon</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>deathgarurumon@gmail.com (DeathGarurumon)</managingEditor><webMaster>deathgarurumon@gmail.com (DeathGarurumon)</webMaster><copyright>© 2025 DeathGarurumon</copyright><lastBuildDate>Sun, 10 Nov 2024 15:55:29 +0800</lastBuildDate><atom:link href="https://DeathGarurumon.github.io/categories/test/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello_World</title><link>https://DeathGarurumon.github.io/docs/hello_world/</link><pubDate>Sun, 10 Nov 2024 15:55:29 +0800</pubDate><author>deathgarurumon@gmail.com (DeathGarurumon)</author><guid>https://DeathGarurumon.github.io/docs/hello_world/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://DeathGarurumon.github.io/docs/hello_world/featured.jpg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on DeathGarurumon</title>
+    <link>http://localhost:1313/categories/test/</link>
+    <description>Recent content in Test on DeathGarurumon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>deathgarurumon@gmail.com (DeathGarurumon)</managingEditor>
+    <webMaster>deathgarurumon@gmail.com (DeathGarurumon)</webMaster>
+    <copyright>© 2025 DeathGarurumon</copyright>
+    <lastBuildDate>Sun, 10 Nov 2024 15:55:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_World</title>
+      <link>http://localhost:1313/docs/hello_world/</link>
+      <pubDate>Sun, 10 Nov 2024 15:55:29 +0800</pubDate>
+      <author>deathgarurumon@gmail.com (DeathGarurumon)</author>
+      <guid>http://localhost:1313/docs/hello_world/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hello_world/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
